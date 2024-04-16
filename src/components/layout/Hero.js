@@ -30,8 +30,8 @@ export default function Hero() {
           </div>
         </div>
         <div className="relative">
-            <Image src={'/pizza.png'} layout={'fill'}
-            objectFit={'contain'} alt={'pizza'} />
+            <Image src='/pizza.png' layout='fill'
+            objectFit='contain' alt='pizza' />
         </div>
       </section>
     );
